@@ -1,0 +1,14 @@
+E:\Nueva carpeta\Actividad\Actividad\bin\Debug\netcoreapp3.1\Actividad.exe
+E:\Nueva carpeta\Actividad\Actividad\bin\Debug\netcoreapp3.1\Actividad.deps.json
+E:\Nueva carpeta\Actividad\Actividad\bin\Debug\netcoreapp3.1\Actividad.runtimeconfig.json
+E:\Nueva carpeta\Actividad\Actividad\bin\Debug\netcoreapp3.1\Actividad.runtimeconfig.dev.json
+E:\Nueva carpeta\Actividad\Actividad\bin\Debug\netcoreapp3.1\Actividad.dll
+E:\Nueva carpeta\Actividad\Actividad\bin\Debug\netcoreapp3.1\Actividad.pdb
+E:\Nueva carpeta\Actividad\Actividad\obj\Debug\netcoreapp3.1\Actividad.csproj.AssemblyReference.cache
+E:\Nueva carpeta\Actividad\Actividad\obj\Debug\netcoreapp3.1\Actividad.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nueva carpeta\Actividad\Actividad\obj\Debug\netcoreapp3.1\Actividad.AssemblyInfoInputs.cache
+E:\Nueva carpeta\Actividad\Actividad\obj\Debug\netcoreapp3.1\Actividad.AssemblyInfo.cs
+E:\Nueva carpeta\Actividad\Actividad\obj\Debug\netcoreapp3.1\Actividad.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta\Actividad\Actividad\obj\Debug\netcoreapp3.1\Actividad.dll
+E:\Nueva carpeta\Actividad\Actividad\obj\Debug\netcoreapp3.1\Actividad.pdb
+E:\Nueva carpeta\Actividad\Actividad\obj\Debug\netcoreapp3.1\Actividad.genruntimeconfig.cache
